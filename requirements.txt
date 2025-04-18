@@ -5,7 +5,7 @@ numpy
 # Machine learning
 scikit-learn
 # tensorflow
-# xgboost
+xgboost
 # lightgbm
 
 # Data visualization
@@ -16,3 +16,11 @@ plotly
 # Jupyter notebooks
 jupyter
 ipykernel
+
+# Deployment
+streamlit
+joblib
+pillow
+streamlit-echarts
+streamlit-option-menu
+streamlit-card
